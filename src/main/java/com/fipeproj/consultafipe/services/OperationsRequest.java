@@ -56,7 +56,7 @@ public class OperationsRequest {
 
 
     public void filterVehiclesByName(String name) {
-        vehiclesList.stream()
+        this.vehiclesList.stream()
                 .filter(v -> v.nome().toLowerCase().contains(name.toLowerCase()))
                 .forEach(v -> {
                     System.out.println("Código: " + v.codigo());
