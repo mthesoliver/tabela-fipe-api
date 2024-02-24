@@ -10,5 +10,5 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | N/A
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://freeimage.host/i/JGR3hzv#vitrinedev)
+![](https://iili.io/JGR3hzv.png)
 
